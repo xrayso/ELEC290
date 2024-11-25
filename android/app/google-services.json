@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555789145200",
+    "project_id": "elec290-6c5f6",
+    "storage_bucket": "elec290-6c5f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555789145200:android:8e8ae1d6c681bff31050b5",
+        "android_client_info": {
+          "package_name": "com.elec.arcway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwevpwsZjx2iv-342llpTf_zG7fVPy40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555789145200:android:6fe371a565e623d11050b5",
+        "android_client_info": {
+          "package_name": "com.example.arcway_application2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwevpwsZjx2iv-342llpTf_zG7fVPy40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
